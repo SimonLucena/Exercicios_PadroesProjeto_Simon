@@ -1,4 +1,6 @@
-package br.edu.ifpb.adapter.adapter.service.adapter;
+package br.edu.ifpb.adapter.automovel.service.adapter;
+
+import br.edu.ifpb.adapter.automovel.model.Automovel;
 
 public class ConversorKMPH implements Adapter{
 	//Serviço
