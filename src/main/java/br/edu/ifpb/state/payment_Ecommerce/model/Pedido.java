@@ -1,7 +1,6 @@
 package br.edu.ifpb.state.payment_Ecommerce.model;
 
 import br.edu.ifpb.state.payment_Ecommerce.state.PedidoState;
-
 import static br.edu.ifpb.state.payment_Ecommerce.state.PedidoStateEnum.ABERTO;
 
 public class Pedido {
